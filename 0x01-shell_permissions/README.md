@@ -10,3 +10,4 @@ Task 8 James_Bond
 Task 9 John_Doe
 Task 10 Sets the mode of the file hello the same as olleh’s mode
 Task 11 Execute permission to all subdirectories of the current directory for ugo
+Task 12 A script that creates a directory called my_dir with permissions 751 in the working directory.

@@ -6,3 +6,4 @@
 5 Display the first 10 lines
 6 Display the third line of the file iacta
 7 Best school file
+8 Overwriting ls_cwd_content

@@ -7,3 +7,4 @@
 6 Display the third line of the file iacta
 7 Best school file
 8 Overwriting ls_cwd_content
+9 Duplicating iacta

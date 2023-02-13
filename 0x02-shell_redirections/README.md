@@ -14,3 +14,4 @@
 13 Sort unique words
 14 Find that word
 15 Count that word
+16 Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd

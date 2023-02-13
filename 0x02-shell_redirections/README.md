@@ -5,3 +5,4 @@
 4 Display the last 10 lines
 5 Display the first 10 lines
 6 Display the third line of the file iacta
+7 Best school file

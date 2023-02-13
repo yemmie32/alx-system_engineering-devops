@@ -22,3 +22,4 @@
 21 a script that reverse its input
 22 A script that displays all users and their home directories, sorted by users
 23 Empty casks make the most noise
+24 A gif is worth ten thousand words

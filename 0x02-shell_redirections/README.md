@@ -13,3 +13,4 @@
 12 Displaying the 10 newest file in the current directory
 13 Sort unique words
 14 Find that word
+15 Count that word

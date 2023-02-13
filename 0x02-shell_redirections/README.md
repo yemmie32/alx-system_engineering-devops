@@ -9,3 +9,4 @@
 8 Overwriting ls_cwd_content
 9 Duplicating iacta
 10 No more javascript
+11 Counting all directories

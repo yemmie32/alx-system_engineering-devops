@@ -8,3 +8,4 @@
 7 Best school file
 8 Overwriting ls_cwd_content
 9 Duplicating iacta
+10 No more javascript
